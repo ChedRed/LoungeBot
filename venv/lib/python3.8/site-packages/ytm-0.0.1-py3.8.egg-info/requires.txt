@@ -1,0 +1,9 @@
+requests
+
+[dev]
+pytest
+
+[dl]
+youtube-dl
+mutagen
+Pillow
